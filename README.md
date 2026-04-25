@@ -1,4 +1,4 @@
-## 👨‍💼 HR Analytics Dashboard | Power BI
+<img width="1656" height="953" alt="image" src="https://github.com/user-attachments/assets/73973e3b-e4f0-4ef3-bd28-fbb121ddb9e7" />## 👨‍💼 HR Analytics Dashboard | Power BI
  <img width="1656" height="953" alt="HR Dashboard" src="https://github.com/user-attachments/assets/10842577-aa0e-45d4-af12-4a51a3334ab0" />
 
 ## 📌 Project Overview
@@ -142,6 +142,7 @@ This project demonstrates strong capabilities in:
 
 It highlights how Power BI can transform raw data into actionable business insights.
 
-📬 Contact
-
-📧 Email: sa.ahmed006@gmail.com
+## 📬 Contact
+LinkedIn: (https://www.linkedin.com/in/saleh-ahmed-data-analyst/)
+Email: sa.ahmed006@gmail.com
+⭐ If you found this project useful, feel free to star the repo!
