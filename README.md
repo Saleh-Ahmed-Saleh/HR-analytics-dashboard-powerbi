@@ -144,5 +144,7 @@ It highlights how Power BI can transform raw data into actionable business insig
 
 ## 📬 Contact
 LinkedIn: (https://www.linkedin.com/in/saleh-ahmed-data-analyst/)
+
 Email: sa.ahmed006@gmail.com
+
 ⭐ If you found this project useful, feel free to star the repo!
